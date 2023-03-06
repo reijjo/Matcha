@@ -1,0 +1,5 @@
+node_modules
+server/node_modules
+client/shuffle
+client/src/assets
+client/src/images/nigodo-assets

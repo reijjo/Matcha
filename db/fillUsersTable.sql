@@ -1,0 +1,1 @@
+INSERT INTO users SELECT user_id as id, username, firstname, lastname, email, password, password AS verifycode, 3 as status FROM profile;
