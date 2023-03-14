@@ -9,6 +9,7 @@ Dating app like Tinder
 * pgAdmin
 * Tailwind
 * Socket.io for notifications and chat
+* OpenCage API and IPAPI for the locations
 
 ## Features:
 ### Registration/Login/Profile
@@ -36,8 +37,9 @@ Dating app like Tinder
  alt="login intro" width="500" height="400">
 
  
- ### Other
- * OpenCage API and IPAPI for the locations
+ ### How to use:
+ * rename 'matcha.env' file to '.env' => fill your info and API keys to that file
+ * 'docker-compose up' on the terminal and you are good to go!
  
  
 
