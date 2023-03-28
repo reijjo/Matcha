@@ -1,6 +1,5 @@
 ![matchaLogo](https://user-images.githubusercontent.com/95418273/224685525-9d5456b4-fdf6-4d6d-85ea-c7cd2420a544.png) <br />
-Matcha is the second project of the web branch in Hive Helsinki. Dating app like Tinder
-
+Matcha - the homemade Tinder! Developed as part of the web branch at Hive Helsinki.
 ## Tools & Languages
 * React
 * NodeJS with Express
